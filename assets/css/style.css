@@ -193,6 +193,10 @@ nav {
     color: var(--title-color);
     cursor: pointer;
 }
+.nav-link {
+    font-weight: var(--font-medium);
+    color: var(--title-color);
+}
 @media screen and (max-width: 767px) {
     .nav-menu {
         position: fixed;
